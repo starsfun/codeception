@@ -1,6 +1,6 @@
 ## Introduction
 
-A quick reference guide (cheat sheet) for Yii2, composer, routes and other useful bits of information.
+A quick reference guide (cheat sheet) for Codecept, composer, routes and other useful bits of information.
 
 ## Thanks for
 
